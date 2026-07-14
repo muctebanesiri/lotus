@@ -59,7 +59,9 @@ defaultContentLanguage = 'fa'
   sans_serif_font = "Vazirmatn"     # Default is System font
   secondary_font  = "Vazirmatn"     # Default is System font
   mono_font       = "Vazirmatn" # Default is System font
-
+    
+    [params.assets]
+      rtl = true
     [params.footer]
         copyright = "© :YEAR: Lotus Labs. Built with [**Lotus Docs**](https://github.com/colinwilson/lotusdocs)"
         # version = true # includes git commit info
