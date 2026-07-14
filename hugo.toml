@@ -10,6 +10,7 @@ defaultContentLanguage = 'fa'
   [languages.fa]
     title = "مجله"
     languageName = "Persian"
+    languageDirection = "rtl"
     weight = 10
   [languages.fr]
     title = "Lotus Docs Exemple de Site"
