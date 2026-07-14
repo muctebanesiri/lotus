@@ -1,5 +1,5 @@
 ---
-title: "Example Page"
+title: "قانون مدنی"
 description: ""
 icon: "article"
 date: "2023-05-22T00:27:57+01:00"
