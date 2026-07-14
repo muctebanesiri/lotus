@@ -52,13 +52,13 @@ defaultContentLanguage = 'fa'
 [params]
 
   google_fonts = [
-    ["Inter", "300, 400, 600, 700"],
-    ["Fira Code", "500, 700"]
+    ["Vazirmatn", "300, 400, 600, 700"],
+    ["Vazirmatn", "500, 700"]
   ]
 
   sans_serif_font = "Vazirmatn"     # Default is System font
   secondary_font  = "Vazirmatn"     # Default is System font
-  mono_font       = "Fira Code" # Default is System font
+  mono_font       = "Vazirmatn" # Default is System font
 
     [params.footer]
         copyright = "© :YEAR: Lotus Labs. Built with [**Lotus Docs**](https://github.com/colinwilson/lotusdocs)"
